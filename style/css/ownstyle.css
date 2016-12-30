@@ -1,0 +1,32 @@
+﻿.col-sm-4 img{
+	width:350px;
+	height:200px;
+	margin-left:20px;
+}
+.col-sm-2 img{
+	width:350px;
+	height:200px;
+	margin-left:20px;
+}
+.col-sm-3 img{
+	width:350px;
+	height:200px;
+	margin-left:20px;
+}
+.col-sm-5 img{
+	width:350px;
+	height:200px;
+	margin-left:20px;
+}
+.col-sm-6 img{
+	width:350px;
+	height:200px;
+	margin-left:20px;
+}
+.item img{
+	margin-left:auto;
+	margin-right:auto;
+	display:table;
+	width:40%;
+	height:40%
+}

@@ -1,7 +1,8 @@
 ﻿.row img{
 	width:350px;
-	height:200px
+	height:200px;
 }
-head{
-	background-image:url('images/rose.jpg')
+body{
+	background-image:url('images/rose.jpg');
+	opacity:0.5;
 }
