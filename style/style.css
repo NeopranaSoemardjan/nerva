@@ -6,3 +6,18 @@
 .col-sm-3{
 	text-align:center;
 }
+.row img{
+	width:250px;
+	height:350px;
+}
+body{
+	background: url('../images/rose.jpg') no-repeat center center fixed; 
+  	background-size: cover;
+  	background-color:transparent;
+}
+.container-fluid{
+	color:white;
+}
+.jumbotron{
+	background-color:#222;
+}
