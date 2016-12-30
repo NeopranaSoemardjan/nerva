@@ -18,6 +18,7 @@ body{
 .container-fluid{
 	color:white;
 }
-.jumbotron{
-	background-color:#222;
+.col-sm-4{
+	text-align:center;
+	color:white
 }
