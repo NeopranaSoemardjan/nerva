@@ -21,3 +21,12 @@ body{
 .jumbotron{
 	background-color:#222;
 }
+.col-sm-4 img{
+	width:250px;
+	height:350px;
+	margin-left:20px;
+}
+.col-sm-4{
+	text-align:center;
+	color:white
+}
